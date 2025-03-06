@@ -1,0 +1,7 @@
+{
+  "name": "OOTLogistic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
