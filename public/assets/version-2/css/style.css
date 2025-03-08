@@ -3006,7 +3006,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .navbar-area {
   padding: 0px;
   margin: 0px;
-  background-color: rgba(241, 75, 75, 0.9);
+  /* background-color: rgba(241, 75, 75, 0.9); */
 }
 .navbar-area.style-03 {
   background-color: rgba(20, 68, 140, 0.9);
