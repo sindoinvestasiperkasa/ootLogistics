@@ -30,7 +30,7 @@
             </div>
             <div class="nav-phone-wrap">
                 <i class="fas fa-phone-alt"></i>
-                +021-29466112
+                +02129466112
             </div>
             <div class="container p-lg-0">
                 <div class="row">
