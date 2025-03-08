@@ -91,10 +91,10 @@
                     <ul class="navbar-nav menu-open">
                         <li><a href="/home">Home</a></li>
 
-                        <li><a href="/about">About</a></li>
+                        <li><a href="/about">About Us</a></li>
                         <li><a href="/services">services</a></li>
 
-                        <li><a href="/contact">Contact</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="nav-right-part nav-right-part-desktop">
@@ -299,9 +299,9 @@
                         <h4 class="widget-title">USEFULL LINKS</h4>
                         <ul>
                             <li><a href="/home"><i class="fa fa-arrow-right"></i>Home</a></li>
-                            <li><a href="/about"><i class="fa fa-arrow-right"></i> About</a></li>
+                            <li><a href="/about"><i class="fa fa-arrow-right"></i> About Us</a></li>
                             <li><a href="/services"><i class="fa fa-arrow-right"></i> Services</a></li>
-                            <li><a href="/contact"><i class="fa fa-arrow-right"></i> Contact</a></li>
+                            <li><a href="/contact"><i class="fa fa-arrow-right"></i> Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
