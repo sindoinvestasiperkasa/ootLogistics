@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "sindo-ip",
+    "ottLogistics": "sindo-ip"
+  },
+  "targets": {
+    "sindo-ip": {
+      "hosting": {
+        "ottLogistics": [
+          "ott-logistics"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

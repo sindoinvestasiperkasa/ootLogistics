@@ -26,7 +26,7 @@
     <header class="navbar-area">
         <div class="navbar-top">
             <div class="logo d-none d-lg-block">
-                <a class="main-logo" href="/home"><img src="/assets/img/logo.png" alt="img"></a>
+                <a class="main-logo" href="/home"><img src="/assets/img/ott (1).png" alt="img"></a>
             </div>
             <div class="nav-phone-wrap">
                 <i class="fas fa-phone-alt"></i>
@@ -72,7 +72,7 @@
                     </button>
                 </div>
                 <div class="logo">
-                    <a href="/home"><img src="/assets/img/logo-2.png" alt="img"></a>
+                    <a href="/home"><img src="/assets/img/logooo (1).png" alt="img"></a>
                 </div>
                 <div class="nav-left-part">
                       
@@ -350,7 +350,7 @@
                             </div>
                             <div class="details">
                                 <h6>Have Any Question</h6>
-                                <h3>+19524357106</h3>
+                                <h3>+02129466112</h3>
                             </div>
                         </div>
                         <a class="btn btn-white" href="/contact">CONTACT US</a>
@@ -585,7 +585,7 @@
                             </div>
                             <div class="details">
                                 <h6>CONTACT US:</h6>
-                                <p>admin_ootid@ottlogistics.com</p>
+                                <p>admin_ottid@ottlogistics.com</p>
                                 <p>+021-29466112</p>
                             </div>
                         </div>
