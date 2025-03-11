@@ -2853,7 +2853,7 @@ ul {
   z-index: 1;
 }
 .banner-area-1 .item:after {
-  content: "";
+  /* content: ""; */
   background: -webkit-gradient(linear, left top, right top, color-stop(14.27%, #080C24), color-stop(29.06%, rgba(8, 12, 36, 0.96789)), color-stop(41.25%, rgba(8, 12, 36, 0.905506)), color-stop(51.56%, rgba(8, 12, 36, 0.832149)), color-stop(57.4%, rgba(8, 12, 36, 0.711263)), color-stop(82.4%, rgba(8, 12, 36, 0)));
   background: linear-gradient(90deg, #080C24 14.27%, rgba(8, 12, 36, 0.96789) 29.06%, rgba(8, 12, 36, 0.905506) 41.25%, rgba(8, 12, 36, 0.832149) 51.56%, rgba(8, 12, 36, 0.711263) 57.4%, rgba(8, 12, 36, 0) 82.4%);
   position: absolute;

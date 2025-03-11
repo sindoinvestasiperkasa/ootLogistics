@@ -113,7 +113,7 @@
     <!-- banner start -->
     <div class="banner-area banner-area-1">
         <div class="banner-slider owl-carousel">
-            <div class="item" style="background: url(/assets/img/banner/home.png);">
+            <div class="item" style="background: url(/assets/img/banner/homeeee.png);">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-7 col-md-8">
