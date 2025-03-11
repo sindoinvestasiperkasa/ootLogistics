@@ -72,7 +72,7 @@
                     </button>
                 </div>
                 <div class="logo">
-                    <a href="/home"><img src="/assets/img/logooo (1).png" alt="img"></a>
+                    <a href="/home"><img src="/assets/img/ott-header.png" alt="img"></a>
                 </div>
                 <div class="nav-left-part">
                       
@@ -281,7 +281,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="widget widget_about">
                         <div class="thumb">
-                            <img src="/assets/img/logo-white.png" alt="img">
+                            <img src="/assets/img/ott 3.png" alt="img">
                         </div>
                         <div class="details">
                             <p>Quickly supply alternative strategic theme areas vis-a-vis B2C mindshare. Objectively repurpose stand-alone synergy via user-centric architectures.</p>

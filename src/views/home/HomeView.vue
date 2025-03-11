@@ -72,7 +72,7 @@
                     </button>
                 </div>
                 <div class="logo">
-                    <a href="/home"><img src="/assets/img/logooo (1).png" alt="img"></a>
+                    <a href="/home"><img src="/assets/img/ott-header.png" alt="img"></a>
                 </div>
                 <div class="nav-left-part">
                       
@@ -113,7 +113,7 @@
     <!-- banner start -->
     <div class="banner-area banner-area-1">
         <div class="banner-slider owl-carousel">
-            <div class="item" style="background: url(/assets/img/banner/a.png);">
+            <div class="item" style="background: url(/assets/img/banner/home.png);">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-7 col-md-8">
@@ -131,7 +131,7 @@
                     </div>
                 </div>
             </div>
-            <div class="item" style="background: url(/assets/img/banner/bnr1.jpg);">
+            <div class="item" style="background: url(/assets/img/banner/home.png);">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-7 col-md-8">
@@ -210,7 +210,7 @@
                     <div class="col-lg-6">
                         <div class="about-thumb-wrap">
                             <img class="img-1" src="/assets/img/about/shape.png" alt="img">
-                            <img class="img-2" src="/assets/img/about/s.png" alt="img">
+                            <img class="img-2" src="/assets/img/about/2.png" alt="img">
                             <img class="img-3" src="/assets/img/about/w.png" alt="img">
                             <div class="exprience-wrap">
                                 <img src="/assets/img/about/shape-3.png" alt="img">
@@ -276,7 +276,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="thumb">
-                            <img src="/assets/img/service/I.png" alt="img">
+                            <img src="/assets/img/service/3 (1).png" alt="img">
                             <div class="icon">
                                 <img src="/assets/img/service/service-icon-u.png" alt="img">
                             </div>
@@ -293,7 +293,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="thumb">
-                            <img src="/assets/img/service/t.png" alt="img">
+                            <img src="/assets/img/service/4 (1).png" alt="img">
                             <div class="icon">
                                 <img src="/assets/img/service/service-icon-2.png" alt="img">
                             </div>
@@ -310,7 +310,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="thumb">
-                            <img src="/assets/img/service/u.png" alt="img">
+                            <img src="/assets/img/service/5.png" alt="img">
                             <div class="icon">
                                 <img src="/assets/img/service/service-icon-a.png" alt="img">
                             </div>
@@ -620,7 +620,7 @@
                     <div class="swiper-slide">
                         <div class="single-portfolio-wrap">
                             <div class="thumb">
-                                <img src="/assets/img/portfolio/1ww.png" alt="img">
+                                <img src="/assets/img/portfolio/mini-1 (1).png" alt="img">
                             </div>
                             <div class="portfolio-details">
                                 <div class="details">
@@ -636,7 +636,7 @@
                     <div class="swiper-slide">
                         <div class="single-portfolio-wrap">
                             <div class="thumb">
-                                <img src="/assets/img/portfolio/2ee.png" alt="img">
+                                <img src="/assets/img/portfolio/mini-2 (1).png" alt="img">
                             </div>
                             <div class="portfolio-details">
                                 <div class="details">
@@ -652,7 +652,7 @@
                     <div class="swiper-slide">
                         <div class="single-portfolio-wrap">
                             <div class="thumb">
-                                <img src="/assets/img/portfolio/3rr.png" alt="img">
+                                <img src="/assets/img/portfolio/mini-3 (1).png" alt="img">
                             </div>
                             <div class="portfolio-details">
                                 <div class="details">
@@ -772,7 +772,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="widget widget_about">
                         <div class="thumb">
-                            <img src="/assets/img/logo-white.png" alt="img">
+                            <img src="/assets/img/ott 3.png" alt="img">
                         </div>
                         <div class="details">
                             <p>Quickly supply alternative strategic theme areas vis-a-vis B2C mindshare. Objectively repurpose stand-alone synergy via user-centric architectures.</p>

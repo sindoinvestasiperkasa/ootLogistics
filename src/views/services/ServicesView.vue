@@ -72,7 +72,7 @@
                     </button>
                 </div>
                 <div class="logo">
-                    <a href="/home"><img src="/assets/img/logooo (1).png" alt="img"></a>
+                    <a href="/home"><img src="/assets/img/ott-header.png" alt="img"></a>
                 </div>
                 <div class="nav-left-part">
                       
@@ -148,7 +148,7 @@
                 <div class="col-lg-4">
                     <div class="single-service-wrap">
                         <div class="thumb">
-                            <img src="/assets/img/service/I.png" alt="img">
+                            <img src="/assets/img/service/asd-6.png" alt="img">
                             <div class="icon">
                                 <img src="/assets/img/service/service-icon-u.png" alt="img">
                             </div>
@@ -165,7 +165,7 @@
                 <div class="col-lg-4">
                     <div class="single-service-wrap">
                         <div class="thumb">
-                            <img src="/assets/img/service/t.png" alt="img">
+                            <img src="/assets/img/service/asd-5.png" alt="img">
                             <div class="icon">
                                 <img src="/assets/img/service/service-icon-2.png" alt="img">
                             </div>
@@ -182,13 +182,13 @@
                 <div class="col-lg-4">
                     <div class="single-service-wrap">
                         <div class="thumb">
-                            <img src="/assets/img/service/u.png" alt="img">
+                            <img src="/assets/img/service/asd-4.png" alt="img">
                             <div class="icon">
                                 <img src="/assets/img/service/service-icon-a.png" alt="img">
                             </div>
                         </div>
                         <div class="details">
-                            <h5>EXPORT/IMPORT</h5>
+                            <h5>LOCAL FREIGHT</h5>
                             <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
                             <div class="btn-wrap">
                                 <a class="read-more-text" href="/services">READ MORE <span><i class="fa fa-arrow-right"></i></span></a>
@@ -199,13 +199,13 @@
                 <div class="col-lg-4">
                     <div class="single-service-wrap">
                         <div class="thumb">
-                            <img src="/assets/img/service/4qw.png" alt="img">
+                            <img src="/assets/img/service/asd-3.png" alt="img">
                             <div class="icon">
                                 <img src="/assets/img/service/service-icon-4.png" alt="img">
                             </div>
                         </div>
                         <div class="details">
-                            <h5>ROAD TRANSPORTATION</h5>
+                            <h5>CUSTOMS CLEARANCE</h5>
                             <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
                             <div class="btn-wrap">
                                 <a class="read-more-text" href="/services">READ MORE <span><i class="fa fa-arrow-right"></i></span></a>
@@ -216,13 +216,13 @@
                 <div class="col-lg-4">
                     <div class="single-service-wrap">
                         <div class="thumb">
-                            <img src="/assets/img/service/5wq.png" alt="img">
+                            <img src="/assets/img/service/asd-2.png" alt="img">
                             <div class="icon">
                                 <img src="/assets/img/service/service-icon-5.png" alt="img">
                             </div>
                         </div>
                         <div class="details">
-                            <h5>TRAIN TRANSPORTATION</h5>
+                            <h5>IMPORT AND EXPORT</h5>
                             <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
                             <div class="btn-wrap">
                                 <a class="read-more-text" href="/services">READ MORE <span><i class="fa fa-arrow-right"></i></span></a>
@@ -233,13 +233,13 @@
                 <div class="col-lg-4">
                     <div class="single-service-wrap">
                         <div class="thumb">
-                            <img src="/assets/img/service/6qw.png" alt="img">
+                            <img src="/assets/img/service/asd-1.png" alt="img">
                             <div class="icon">
                                 <img src="/assets/img/service/service-icon-6.png" alt="img">
                             </div>
                         </div>
                         <div class="details">
-                            <h5>LAND TRANSPORTATION</h5>
+                            <h5>DEVANNING</h5>
                             <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
                             <div class="btn-wrap">
                                 <a class="read-more-text" href="/services">READ MORE <span><i class="fa fa-arrow-right"></i></span></a>
@@ -378,7 +378,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="widget widget_about">
                         <div class="thumb">
-                            <img src="/assets/img/logo-white.png" alt="img">
+                            <img src="/assets/img/ott 3.png" alt="img">
                         </div>
                         <div class="details">
                             <p>Quickly supply alternative strategic theme areas vis-a-vis B2C mindshare. Objectively repurpose stand-alone synergy via user-centric architectures.</p>
